@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "katharsis",
+  "owner": { "name": "Katharsis Event" },
+  "metadata": { "description": "Skills Claude internes à Katharsis Event" },
+  "plugins": [
+    {
+      "name": "katharsis",
+      "source": "./plugins/katharsis",
+      "description": "Charte et bonnes pratiques Katharsis Event : présentations et dossiers en slides, reprise de présentations clients.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
