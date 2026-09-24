@@ -15,14 +15,14 @@ Prérequis : Claude Code, et un accès au dépôt privé (`gh auth login` ou cl�
 Dans Claude Code :
 
 ```
-/plugin marketplace add gulrupa/katharsis-skills
+/plugin marketplace add katharsisDEV/katharsis-skills
 /plugin install katharsis@katharsis
 ```
 
 En ligne de commande, c'est équivalent :
 
 ```bash
-claude plugin marketplace add gulrupa/katharsis-skills
+claude plugin marketplace add katharsisDEV/katharsis-skills
 claude plugin install katharsis@katharsis
 ```
 
